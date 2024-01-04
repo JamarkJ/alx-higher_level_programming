@@ -1,4 +1,3 @@
-0x00. Python - Hello, World
 The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
